@@ -4,7 +4,7 @@ This is a basic **portfolio website** built using **HTML** and **CSS**. It inclu
 
 ## 📄 Pages
 
-- **About Page (`about.html`)** – A short introduction about me, my background, and interests.  
+- **index Page (`index.html`)** – A short introduction about me, my background, and interests.  
 - **Contact Page (`contact.html`)** – Contains my contact details for anyone wishing to reach out.
 
 ## 🛠️ Technologies Used
