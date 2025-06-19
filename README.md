@@ -14,7 +14,7 @@ This is a basic **portfolio website** built using **HTML** and **CSS**. It inclu
 
 ## 🔗 how to view
 
-👉 [View Website Here](link=)
+👉 [View Website Here](link=https://jeyasurya-63.github.io/portfolio-simple-websites/)
 
 ## 🎯 Purpose
 
